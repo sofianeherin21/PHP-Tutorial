@@ -171,7 +171,7 @@
 			}
 			printString();
 			sayHello("Sofia");
-			sayHello("Daiki");
+			sayHello("Sarah");
 		?>
 	<!--RETURN-->
 	<h4>RETURN Statement</h4>
